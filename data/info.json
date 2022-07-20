@@ -1,0 +1,125 @@
+{
+  "name": "Anna",
+  "surname": "Avdalyan",
+  "cv": "cv.pdf",
+  "photo": "hero.jpg",
+  "short_description": "Hi, I am Anna Front-End Developer. I primarily focus on writing clean, elegant, and efficient code. I am proficient in HTML, CSS, JavaScript,jQuery,Vue(2,3 and Nuxt). I also review existing code and can consult with you on how to improve it.",
+  "description": "Hi, I am Anna Front-End Developer. I primarily focus on writing clean, elegant, and efficient code. I am proficient in HTML, CSS, JavaScript,jQuery,Vue(2,3 and Nuxt). I also review existing code and can consult with you on how to improve it. I have been Front-End for three years, of which i spent a year HTML coding(HTML,SCSS,jQuery) and two years Vue.js Development",
+  "birthday": "06 nov 2000",
+  "age": "21",
+  "website": "www.domain.com",
+  "email": "anna.avdalyan@gmail.com",
+  "degree": "CS",
+  "phone": "+374 77 92-72-29",
+  "city": "Yerevan",
+  "country": "Armenia",
+  "skills": [
+    {
+      "name": "HTML",
+      "percent": 100
+    },
+    {
+      "name": "CSS/SCSS",
+      "percent": 100
+    },
+    {
+      "name": "JS/jQuery",
+      "percent": 80
+    },
+    {
+      "name": "VUE",
+      "percent": 90
+    },
+    {
+      "name": "NUXT",
+      "percent": 90
+    },
+    {
+      "name": "PHP/LARAVEL",
+      "percent": 66
+    }
+  ],
+  "education": [
+    {
+      "date": "2013 - 2017",
+      "title": "Yerevan State Basic Medical College",
+      "description": "I studied in Yerevan State Basic Medical College as a pharmacist"
+    },
+    {
+      "date": "2018 - Progress",
+      "title": "Yerevan State University",
+      "description": "I studied in Yerevan State University as a Information Technologies Educational and Research Centre"
+    },
+    {
+      "date": "2019.01 - 2019.06",
+      "title": "BeeOnCode",
+      "description": "Web Development (Html, Css, JavaScript, jQuery, Php"
+    },
+    {
+      "date": "2020.03 - 2020.05",
+      "title": "ToCode Academy",
+      "description": "Vue js, Vue 2, Vue 3, VueX, Vue-Router, VueX"
+    },
+    {
+      "date": "2021.11 - Progress",
+      "title": "SkillBox",
+      "description": "Profession Frontend developer from scratch to PRO"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2019.08 - 2020.12",
+      "title": "BeeOnCode",
+      "description": "Html Coding and Wordpress Developer"
+    },
+    {
+      "date": "2021.01 - 2022.05",
+      "title": "Creative Web",
+      "description": "Vue.js Developer, Html Coding"
+    },
+    {
+      "date": "2021.04 - 2021.09 and 2022.01-2022-01",
+      "title": "Paily",
+      "description": "Front-End Developer (Vue js)"
+    }
+  ],
+  "portfolio": [
+    {
+      "img": "portfolio-1.jpg",
+      "link": "https://avdalyananna.github.io/BeIn/",
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    },
+    {
+      "img": "portfolio-2.jpg",
+      "link": "https://avdalyananna.github.io/Dancecolor/",
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    },
+    {
+      "img": "portfolio-4.jpg",
+      "link": "https://avdalyananna.github.io/delfine/",
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    },
+    {
+      "img": "portfolio-5.jpg",
+      "link": "https://avdalyananna.github.io/int-devels/",
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    },
+    {
+      "img": "portfolio-6.jpg",
+      "link": "https://www.lakomkaspb.ru/",
+
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    },
+    {
+      "img": "portfolio-7.jpg",
+      "link": "#",
+      "title": "title",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quo ea commodi autem eius id error. Corporis inventore adipisci hic sequi! Blanditiis architecto reprehenderit rerum assumenda, illum aliquam quae dolore nobis laudantium incidunt maiores harum officiis animi commodi! Ipsam exercitationem molestias, non et velit facilis cupiditate, ducimus, dolor harum explicabo cum necessitatibus obcaecati minima dignissimos."
+    }
+  ]
+}
